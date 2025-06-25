@@ -58,7 +58,7 @@ Here are a few hands-on projects I'm working on and uploading:
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 -  [LinkedIn](https://www.linkedin.com) *(www.linkedin.com/in/arinze-fortune-063a64263)*
 -  Email: *fortuneihekweme@gmail.com*
