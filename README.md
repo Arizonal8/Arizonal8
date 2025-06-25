@@ -7,8 +7,8 @@
 Conducting Threat Research and Network Security Simulations
 
 <b>Cybersecurity Projects (Wireshark, Burp Suite, Nmap, Metasploit, and Splunk)</b>
-
 Malware Detection Workflow Prototype – a visual demonstration of how threats are identified, analyzed, and neutralized within a layered security environment.
+
 ---
 
 ## 
