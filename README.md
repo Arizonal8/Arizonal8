@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Arizonal8 👋</h1>
+<h1 align="center">Hi, I'm Ihekweme Arinze 👋</h1>
 
 <p align="center">
   🎓 MSc Cyber Security Student at Sheffield Hallam University<br>
