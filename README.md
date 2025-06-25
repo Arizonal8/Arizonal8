@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Ihekweme Arinze 👋</h1>
 
-<h1>Hi, I'm Arinze! <br/><a href="https://github.com/Arizonal8">Cybers Security Analyst</a>, <a href="www.linkedin.com/in/arinze-fortune-063a64263/">Cloud Security Engineer</a>,
+<h1>Hi, I'm Arinze! 👋<br/><a href="https://github.com/Arizonal8">Cybers Security Analyst</a>, <a href="www.linkedin.com/in/arinze-fortune-063a64263/">Cloud Security Engineer</a>,
 
 <h2>👨‍💻 Cloud Security Engineer</h2>
 
@@ -10,7 +9,9 @@ Conducting Threat Research and Network Security Simulations
 <b>Cybersecurity Projects (Wireshark, Burp Suite, Nmap, Metasploit, and Splunk)</b>
 
 Malware Detection Workflow Prototype – a visual demonstration of how threats are identified, analyzed, and neutralized within a layered security environment.
+---
 
+## 
 <p>
   🎓 MSc Cyber Security Student at Sheffield Hallam University<br>
   💻 Passionate about Cyber Security, Network Engineering, and Ethical Hacking<br>
