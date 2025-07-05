@@ -16,6 +16,8 @@ Malware Detection Workflow Prototype – a visual demonstration of how threats a
   * MSc Cyber Security Student at Sheffield Hallam University<br>
   * Passionate about Cyber Security, Network Engineering, and Ethical Hacking<br>
   * Completed Udemy courses on Cyber Security and Networking<br>
+  * Completed Cisco Networking academy courses on Cyber Security and Networking<br>
+  * Completed Tryhackme room courses on Cyber Security and Networking<br>
   * Actively building my portfolio with hands-on projects in encryption, steganography, and red team skills
 </p>
 
@@ -41,9 +43,10 @@ Malware Detection Workflow Prototype – a visual demonstration of how threats a
 
 ## Certifications
 
-- ✅ Cyber Security Bootcamp – Udemy
-- ✅ Network Security Fundamentals – Udemy
-- ✅ Practical Ethical Hacking – TCM Security (in progress)
+-  Cyber Security Bootcamp – Udemy
+-  Network Security Fundamentals – Udemy
+-  Cyber security 101 - tryhackme
+-  Practical Ethical Hacking – TCM Security (in progress)
 
 ---
 
@@ -52,8 +55,7 @@ Malware Detection Workflow Prototype – a visual demonstration of how threats a
 Here are a few hands-on projects I'm working on and uploading:
 
 -  [Encrypt File with Cryptomator](https://github.com/Arizonal8/Encrypt-File-in-Cryptomator)
--  Steganography using Steghide (Coming Soon)
--  Keylogger & Malware Analysis (Red Team Projects)
+-  [Keylogger attack using python]((https://github.com/Arizonal8/Keylogger-attack))
 -  Cloud Network Simulation with Cisco Packet Tracer (In Progress)
 
 ---
