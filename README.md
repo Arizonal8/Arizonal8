@@ -132,7 +132,6 @@ Educational demonstration of keystroke logging techniques for understanding atta
 I'm always open to discussing cybersecurity, cloud security opportunities, collaborations, or answering questions about my projects!
 
 - **LinkedIn:** [linkedin.com/in/arinze-fortune-063a64263](https://www.linkedin.com/in/arinze-fortune-063a64263/)
-- **GitHub:** [github.com/Arizona8](https://github.com/Arizona8)
 - **Email:** ihekwewefortune@outlook.com
 
 ---
